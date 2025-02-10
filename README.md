@@ -146,3 +146,22 @@
   </a>
 </details>
 
+<hr/>
+
+<h3 align="center">📫 Connect with Me</h3>
+
+<p align="center">
+    <a href="https://discord.com/users/bhupower19#4644">
+        <img src="https://img.shields.io/badge/Discord-Connect-blue" alt="Discord">
+    </a>
+    <a href="https://www.linkedin.com/in/bhuvan-arnaud/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/BhuvanArn">
+        <img src="https://img.shields.io/badge/GitHub-Follow-blue" alt="GitHub">
+    </a>
+</p>
+
+<hr/>
+
+<p align="center">Thanks for visiting my profile! Have a great day! 😊</p>
