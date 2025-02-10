@@ -115,7 +115,7 @@
 <h3 align="center">🔥 Streak Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhuvanArn&theme=algolia" alt="BhuvanArn" />
+  <img src="https://streak-stats.demolab.com?user=BhuvanArn&theme=algolia" alt="BhuvanArn" />
 </p>
 
 <hr/>
