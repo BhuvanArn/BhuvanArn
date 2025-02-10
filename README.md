@@ -117,3 +117,32 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhuvanArn&theme=algolia" alt="BhuvanArn" />
 </p>
+
+<hr/>
+
+<h3 align="center">📈 GitHub Stats</h3>
+
+<details align="center">
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="BHuvanArn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BhuvanArn&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    </a>
+    <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="BhuvanArn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=BhuvanArn&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
+    </a>
+    <br/>
+        📝 These stats only includes my contribution in public repositories so it doesn't well reflect experience or skill level.
+  </p>
+</details>
+
+<details align="center">
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+  <a href="https://github.com/BhuvanArn">
+    BhuvanArn's Activity Graph
+  </a>
+</details>
+
