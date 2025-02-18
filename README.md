@@ -71,7 +71,7 @@
     <a href="https://actix.rs" target="_blank">
         <img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Actix">
     </a>
-    <a href="#">
+    <a href="https://insomnia.rest/" target="_blank">
         <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia">
     </a>
 </p>
@@ -90,34 +90,34 @@
 <h4 align="center">🛠️ Software & Tools</h4>
 
 <p align="center">
-    <a href="#">
+    <a href="https://git-scm.com/" target="_blank">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     </a>
-    <a href="#">
+    <a href="https://code.visualstudio.com" target="_blank">
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
     </a>
-    <a href="#">
+    <a href="https://www.docker.com/" target="_blank">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     </a>
-    <a href="#">
+    <a href="https://www.atlassian.com/fr/software/jira?campaign=19324539593&adgroup=143040339085&targetid=kwd-855725830&matchtype=e&network=g&device=c&device_model=&creative=642068829030&keyword=jira&placement=&target=&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=Cj0KCQiA_NC9BhCkARIsABSnSTYiLLR2vzN_-E1NAJhf1XfdLl219wyC-HfwklUjlM0YR21Dpu40ZrcaAkq5EALw_wcB" target="_blank">
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
     </a>
-    <a href="#">
+    <a href="https://trello.com/fr?campaign=19269516403&adgroup=148159472287&targetid=kwd-3609071522&matchtype=e&network=g&device=c&device_model=&creative=641585205824&keyword=trello&placement=&target=&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gclid=Cj0KCQiA_NC9BhCkARIsABSnSTYy_YhEOVvgng7SrQSic2n8uOvGVF8gNBerUFoVqpaz8ogbDgu9qpkaAjdLEALw_wcB" target="_blank">
         <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
     </a>
-    <a href="#">
+    <a href="https://github.com/" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="#">
+    <a href="https://about.gitlab.com/" target="_blank">
         <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
     </a>
-    <a href="#">
+    <a href="https://slack.com/" target="_blank">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
     </a>
-    <a href="#">
+    <a href="https://www.doxygen.nl/" target="_blank">
         <img src="https://img.shields.io/badge/Doxygen-000000?style=for-the-badge&logo=doxygen&logoColor=white" alt="Doxygen">
     </a>
-    <a href="#">
+    <a href="https://www.virtualbox.org/" target="_blank">
         <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
     </a>
 </p>
@@ -125,22 +125,22 @@
 <h4 align="center">🪟 Operating Systems</h4>
 
 <p align="center">
-    <a href="#">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+        <img src="https://img.shields.io/badge/🪟 Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
     </a>
-    <a href="#">
+    <a href="https://www.linux.org/" target="_blank">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
     </a>
-    <a href="#">
+    <a href="https://www.ubuntu-fr.org/" target="_blank">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
     </a>
-    <a href="#">
+    <a href="https://www.debian.org/" target="_blank">
         <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
     </a>
-    <a href="#">
+    <a href="https://getfedora.org/" target="_blank">
         <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
     </a>
-    <a href="#">
+    <a href="https://nixos.org/" target="_blank">
         <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS">
     </a>
 </p>
