@@ -76,7 +76,7 @@
     </a>
 </p>
 
-<h4 align="center">🛠️ Databases</h4>
+<h4 align="center">☣️ Databases</h4>
 
 <p align="center">
     <a href="https://www.postgresql.fr/" target="_blank">
