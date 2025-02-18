@@ -114,6 +114,13 @@
     <a href="#">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
     </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Doxygen-000000?style=for-the-badge&logo=doxygen&logoColor=white" alt="Doxygen">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
+    </a>
+</p>
 </p>
 
 <hr/>
