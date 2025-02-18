@@ -51,6 +51,12 @@
     <a href="https://vuejs.org" target="_blank">
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
     </a>
+    <a href="https://vitejs.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+    </a>
+    <a href="https://vitejs.dev/guide/features.html#testing" target="_blank">
+        <img src="https://img.shields.io/badge/Vitest-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vitest">
+    </a>
 </p>
 
 <h4 align="center">🗃️ Backend Development</h4>
