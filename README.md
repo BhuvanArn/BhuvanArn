@@ -179,7 +179,11 @@
   <a href="https://github.com/BhuvanArn">
     BhuvanArn's Activity Graph
   </a>
+
+![](https://komarev.com/ghpvc/?username=BhuvanArn&for-the-badge&color=red)
 </details>
+
+
 
 <hr/>
 
